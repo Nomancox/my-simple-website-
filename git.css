@@ -1,0 +1,14 @@
+h1{
+    background-color: rgb(226, 219, 28);
+    color: rgb(0, 153, 255);
+    border: 10px solid;
+    width: 30%;
+    text-align: center;
+}
+h3{
+    color: rgb(0, 85, 255);
+    
+}
+*{
+    color: blueviolet;
+}
