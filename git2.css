@@ -1,0 +1,21 @@
+h1{
+    color: rgb(0, 119, 255);
+}
+h3{
+    color: rgb(11, 230, 69);
+}
+h2{
+    color: tomato;
+}
+p{
+    background-color: aquamarine;
+    border: solid chocolate;
+    margin: 20px;
+    padding: 10px;
+    width: 30%;
+    text-align: justify;
+
+}
+li{
+    color: blue;
+}

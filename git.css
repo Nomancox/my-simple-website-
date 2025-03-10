@@ -12,3 +12,7 @@ h3{
 *{
     color: blueviolet;
 }
+p{
+    border: 10px solid tomato;
+    width: 20%;
+}
